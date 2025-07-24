@@ -25,7 +25,7 @@
     },
     "AUTO_REPLY_STATUS": {
       "description": "Enter yes for your bot to notify people that you have viewed there status",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_READ_STATUS": {
@@ -85,7 +85,7 @@
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "yes",
+      "value": "no",
       "required": yes 
     },
     "OWNER_NAME": {
@@ -95,7 +95,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "BWM-XMD;;;H4sIAAAAAAAAA61VyY7j1hX9l7eVusXpiaSAAsJRMzWQGoMsnshH8omjOEmqhrZeBWhkAJzYMMow4JWDrHuVRf4k/QNdn5CwVIUqwHZ3BTAXBPFInnvuveee+w7ECcnxEJ9B5x1IM1KhAtePxTnFoAPk0nVxBprAQQUCHVBOSWMz6gvaqCsKjcSmpHa5b2l60NsPRkeH95bFgdW1JaLHN+DSBGm5C4n9GcCF1JKOm7PSu41NLtgM7KDbnQbrRIfufiF1jxwNd3uFXZVL7gZcakREMhJ7WurjCGcoHOLzFJHsdfQDPfYC1t9Ua7XtGHlXHLYnrBEwOw8admyaAzmcU/sBZYSb19H324nL+PtYbWxb64l1XPZtSRLckGqU25AM3UqeujOO69GsfaWfEy/GTt/BcUGK86vrLsnbILbopRy6buXTy3bKV85gpGjx4GR1VWGOJnl0qDa9aPE64jQZBuZtPxxs3YOziibZicpPc+x6FCwjaV3xUJPD1XDWv5VeEp9mT1oJ/p+6mwaeqbm/Nu1ZuFxE3d5hnk9GQ6K1XAH6/EGbIKJIejXs5q+jbwXWce87LF2EMO9JmwllKOKk1NG85BB1G+lHKDOaa9x2k2f6qCizz7E8LpJxsTP7y3gYRAKK5SqXRbgn9sTKTy2FD3x9YiTTaWgV3dFkPgiqBhMoiUSb3JJbebuxrBZ5g10sWztHMsowbnMH1bt5yCjA574DOvSlCTLskbzIUEGSuD5jIGwC5FQmtjNcPJQXBHlvMJl2LT6a2qWTp9GCSo/7UzAq9pKar9dB1Rj744NXZrMb0ARpltg4z7HTI3mRZOcxznPk4Rx0fv/QqTrpDEdJgQfEAR3AQI5nocjQAi/+Ln979FGRozR9G+MCNIGbJdEYg06RlbgJHn4QNUnnRJGWVcgobVoUREXSoQw1WaB0RaXrFKNrUItEOC9QlIIOzXOQ5ThOZC7N34aHpEhQpnlNozRWF3iBkdsyFGSWZQReVyDzBR7sb8VD0SDbljkOCnqbV1lahiLP6IzMCm3IqZL0BR7i5Q9NEONTcZ2nWgUs3QQuyfJiEZdpmCDnadieXiLbTsq4MM+xrdQPOAOdF8e4KEjs5XVmZYwy2ycVVuo8QMdFYY4vTeDgiti4xgM82k4hE3gz9mye6XU661LLuVcryU/i6ye0CAWK37Xf0CKL33Btm38j8pB6w4q7HWIoEduCAOpyXK2s/udXJ8uRYk9sOGZExO2AN47iTjVLPzVaj3Z1HQmcYeepyjtkB2VqJQGOP4OLb/uN/iyy4Xw2cgI9JuVmNx53Zat/fIF7HTXQefe8PpTEqfFM3dzQVm8E6m7VcX6mhg7/cz3EqP4Y/OfHnywfv1VxXmTJGWf3d3/+4f7up68+/u37Tx/e39/98R+fPrz/+M1f6/t3X3/87uv7u2//dH/3l2///c/66O//+vThfU3ysYN1eAcXiIR5LbD+KPa2nqIZ7SoWpG5XWniS4kngueNPjnZ1jKPB+ZkTDSiSDOYnchvKsdvAKCmNwzg+B2qXbvRYX6etmXfzCyD1Kiaz28pqr/CeWpUJL7AaUXik7iApN61xpWYRdLZoo7jctAj6Fo9Xa5tyLGa7VQ60nMtCZnGLarUtJ/SJT/uVvupu1NlNHe2qvJfBNH20XB9HzJQogzUn7byIavGaola6L/Nku8WqSVzoUEaR7g4tytbXfGzAVWNd8S0thi5lGcb6sNW31F7N4+rEpHAjPXrtg9eHjzuWPLrgVacuwQ8r67GFX+r088RQl+YLiMcd+CuqlG0V9xG7JU7/oCzsTQ5nW7YVR4fRHu0HQiqdCtcXubmzoPrgUltBGqLCTbLof6pCsZMlxAFNEKK8kJ6H/pd8hG6C6CylqVmg4skrgFRfQ9UGl/8CNjLgG94JAAA=",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61Vya6bSBT9l9raipkLkJ4UZuMBg/H03OoFhmKwmVxg/EhkKbtI+Ynsetm7/qF8QT6hhe3XiZT069dS2FBVFPeec+ueU+9BXiQVGqMWiO9BiZPGq1E3rNsSARHIpzBEGPRB4NUeEIExFMhaY/jREjMmz8CGrdBssHnXW+g+SYbqRMn2ciMRtuE8gEsflKddmvgvBDxP5/Ng1kPDWZa7gUAxRyY4uHwqm0LStDAiVpZ+LhfDWVQ8gEsX0UtwkkdaGaMMYS8do9b2Evw6+I+mtNyuJ/I4IJ8UgwuHzHHk7qVtvN/FY2vsrvl2zZPDvZ5pr4NfuYX3CN2RL09Mcx7T/sGeErNqyswX9Ik2q0GkD9pNWR3l6Q1+lUQ5CswA5XVSt6+u+8zeFmpljzMaPq16c0gd2HiUvbOk0ulZmhpSBO+bvvk4XhevA96UBNaHoZ7TXOpqXC+sWPckqCw5je0wXXp7vN07VKwbm8fvgdv4uVcO/6fuidrMcjkKevyMjJeOUOqsNZkkfmMouZVRWmk+xo28YphrtlfA3y/GitoaRDKeHJozF21HzuPGX68npWplySIfJ0G4XimPo9T8Bt+rT/gllMPK9hW2xPaEyGHg0/RyY/GLFmpQ4PfrCW3FB4dMdtuonE52i8LduYFRuqudh3S11OjokFEcFY1mhO75TtszwoERSc7DldEBtWYARPLSBxhFSVVjr06K/LrGM33gBY2LfIzqa3kB1texLVlngy165XlwKGdPpyad2yO5PO/TrVqzUDY2m/ikVw+gD0pc+KiqUDBMqrrA7RRVlRehCoi/XU+qI41RVtRolARABBTLQIJhSEgL8G315hx7deWV5Zsc1aAPQlxkUwTEGp9QH1x/4BWFYjiK11lW4yFLCVAnWQbKuqQzlMYJHcXslnSRZKiqvawEIglZmqZ5jhAu/V+Dg6NkSmAJgtdJVSMhJ/ECw3O6ynEyxWgU+zIOkvpVOAiBESRISSSpEyyEUKI1WeYonoQELdOQehkHQ11+74McPdU3PXVdQJN9ECa4qpf5qUwLL3gW2/NHz/eLU167be4r3QBhIH63jOo6yaOqY3bKPezHSYOUjgcQQy+t0D+NhzAKnrnczVQpgqseFjNnuGY00GHvAv1QG5H7sTrpbRfNsx15iiOgQAsi97Zb74Pc60KBr58//vXlw6evnz/+cXvdZ39++fCpq9WdRZc0QLWXpBUQgWIbB7I4GNrMSGPeMQxJiyQlksA31s+qvqkGrTTZcW1HMwVmK6+3TAyziCf8upmMpk902msXpkVWWUAyDz8JAkQwHfonbWGtytCEobed7zbGWirl4XYyFODRneCI79Fq2whzk2rWjvxU0F4vm62DwFHVaXqOi3E6C4/Wlj/J8UhQKOy9U6WHLluAmsRH3ydbY7+cHlfbHXzS2qLJ6BEk5kbvUBMTK2p3kjW3g2xbqDQqx2zPRRtutNLQIMjxXBto0Y475pxQ8CQSltZgt4BR5GzU6OY3V79L7/dMcneC5DoNE3S17fvR/Nf53nB3XUhc+t+FuN8D/+Kl8iadS0ttT8iKjQxnlSETsYVtDSe7tl1MAzasDq0a7EZ5gMClk0OZenVY4AyIwMsDXFzbBxenrq3NPCxeSKZIhCnfjTb1qlr6JpWfuRF522Xjohx6VdzVYAXhcdn1fSuVpVt79bPygNQ9hrMCl78BvE+0ECwJAAA=",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -105,7 +105,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "3",
+      "value": "2",
       "required": true
     },
     "ANTIDELETE_SENT_INBOX": {
